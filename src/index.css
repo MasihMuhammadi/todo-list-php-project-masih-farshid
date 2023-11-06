@@ -1,0 +1,15 @@
+body{
+  
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color:red;
+}
+input{
+  width:400px;
+  height:40px;
+  border-radius: 10px;
+  display: inline;
+}
